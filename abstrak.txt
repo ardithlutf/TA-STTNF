@@ -1,0 +1,34 @@
+Secara umum, paragraf pertama memuat :
+judul penelitian, rumusan masalah, latar belakang dan tujuan penelitian.
+
+Secara umum, paragraf kedua memuat :
+metode penelitian, teknik analisa data, landasan teori.
+
+Secara umum, paragraf ketiga berisi tentang :
+hasil atau kesimpulan yang diperoleh dari penelitian yang sudah dilakukan.
+
+
+- pengertian LM
+- LM di STT NF
+- Permasalahan
+- tujuan penelitian
+- metode, alat & bahan
+- hasil penelitian
+
+
+
+===
+
+BISMILLAH
+
+===
+
+Link and match dalam dunia pendidikan adalah suatu bentuk penyelenggaraan pendidikan dalam mempersiapkan peserta didik untuk dapat memenuhi kebutuhan kerja. Sebagai kampus yang memperhatikan kebutuhan dunia kerja yang semakin meningkat, STT Terpadu Nurul Fikri membuka kelas untuk link-match sebagai pengembangan mata kuliah, program ini bertujuan untuk mempersiapkan mahasiswa agar terbiasa dengan lingkungan kerja yang akan mereka hadapi suatu saat kelak dan yang paling penting adalah mempersiapkan mahasiswa agar dapat memenuhi kebutuhan industri. Saat ini program link-match masih menggunakan aplikasi pihak ketiga berbasis website dan cukup banyak aplikasi lainnya yang digunakan. Hal ini menjadi tantangan untuk mengembangkan aplikasi yang dapat diakses dengan mudah yaitu dengan menggunakan smartphone dan berfokus pada pengelolaan project. Tujuan penelitian ini yaitu membantu pelaksanaan program link-match yang berjalan di STT Terpadu Nurul Fikri. Dilakukan dengan menerapkan metode scrum sesuai dengan prinsip-prinsip yang terdapat pada metode pengembangan perangkat secara cepat. Perancangan sistem pada penelitian ini menggunakan UML diagram UML sebagai representasi dari sistem yang akan dibangun. Aplikasi ini dibangun menggunakan Flutter Framework dan RESTful API untuk bertukar data yang terintegrasi secara real-time dengan website link-match. Hasil penelitian ini adalah aplikasi berbasis Android dengan beberapa fitur, yaitu: ...
+Berdasarkan pengujian User Acceptance Test dan kuesioner yang memiliki tingkat keberhasilan maupun kepuasan mencapai lebih dari 75% dapat diambil kesimpulan aplikasi link-match modul dosen ini sudah cukup baik dan dapat membantu pelaksanaan program link-match di STT Terpadu Nurul Fikri.
+
+
+
+Design Build Link-Match Application STT-NF Campus Mobile Based Lecturer Module Using Flutter
+
+
+Link and match in the world of education is a form of organizing education in preparing students to be able to meet work needs. As a campus that pays attention to the growing needs of the world of work, Nurul Fikri Integrated High School opens a link-match class as a course development, this program aims to prepare students to get used to the work environment. Currently link-match programs still use website-based third-party applications and quite a lot of other applications are used. It is a challenge to create an application that can be accessed easily by using a smartphone and focusing on project management. The purpose of this research is to help the implementation of link-match program that runs in Nurul Fikri Integrated STT. It is carried out by applying the scrum method in accordance with the principles contained in the method of rapid development of the device. The system design in this study used UML diagrams as a representation of the system to be built. The application is built using the Flutter Framework and RESTful API to exchange real-time integrated data with link-match websites. The result of this research is an Android-based application with several features to perform sprint management, see project, team and student information. Based on User Acceptance Test and questionnaire, this application has a success rate and satisfaction of more than 75% and can be concluded that the application of link-match lecturer module is good enough and can help the implementation of link-match program in Nurul Fikri Integrated STT.

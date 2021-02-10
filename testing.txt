@@ -1,0 +1,13 @@
+komentar:
+- Tampilan UI nya iconnya kecil, baiknya proporsional
+- Loading cukup lama (login, dashboard, )
+- Harusnya dapat melihat nama anggota tim
+- User akan mengira nilai bisa dilihat dengan langsung mengklik nama mahasiswa di dashboard
+- Nilai mahasiswa langsung saja tampilkan daftar nilainya di halaman awal
+- View password pada halaman login
+- Foto belum muncul
+- Tampilan belum rapih terutama penggunaan font dan icon
+- View sprint dikelompokkan bedasarkan project
+- Tidak ada indikator proses berhasil atau tidak
+- Halaman mahasiswa diganti menjadi nilai mahasiswa saja
+- Notifikasi tidak terhubung ke internet
